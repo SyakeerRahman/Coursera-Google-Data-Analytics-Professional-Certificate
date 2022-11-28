@@ -1,6 +1,6 @@
 # Coursera-Google-Data-Analytics-Professional-Certificate
 
-"D:\syakeer\Google Data Analytics\google-data-analytics-main\Certificate\Coursera Google Data Analytics-1.png"
+![Coursera Google Data Analytics-1](https://user-images.githubusercontent.com/105381652/204223289-bda25b0a-2fee-4e30-96a7-04d53a03b553.png)
 
 This repository written for reference and self-documentation purpose
 Feel free to contribute!
